@@ -1,16 +1,17 @@
 # 🌎 **Rodrigo Aragão Pinto**
 📍 Brasília – DF  
-📧 rodrigo.pinto@serpro.gov.br | 📞 (61) 98441-8569  
+📧 rodrigo.pinto@serpro.gov.br | rodrigo@geodatabros.com | rodrigo@rapideas.com
+📞 (61) 98441-8569  
 🌐 [LinkedIn](#) | [GitHub](#)
 
 ---
 
 ## 💡 **Perfil Profissional**
-Profissional com mais de **30 anos de experiência em Tecnologia da Informação**, unindo sólida formação técnica a uma trajetória que transita entre **engenharia de dados, geoprocessamento, ciência de dados e gestão de projetos**.
+Com **30 anos de experiência em Tecnologia da Informação**, unindo sólida formação técnica a uma trajetória empreenderoda na gestão de projetos e protudos, que transita entre **arquitetura, engenharia de software, geoprocessamento e ciência de dados**.
 
-Nos últimos anos, atua como **DevOps e Cientista de Dados Espaciais no Serpro**, desenvolvendo **soluções geoespaciais, APIs e pipelines de dados** voltadas a políticas públicas ambientais e territoriais.
+Nos últimos anos, atua como **DevOps e Cientista de Dados Espaciais no Serpro**, desenvolvendo **soluções de geotecnologia para APIs e pipelines de dados** voltadas a políticas públicas ambientais e territoriais.
 
-Combina visão estratégica, domínio técnico e mentalidade ágil para gerar valor por meio da integração entre **dados, território e inteligência artificial**.
+Combina visão estratégica, domínio técnico e mentalidade ágil para gerar valor por meio da integração entre **dados do território brasileiro e inteligência artificial**.
 
 ---
 
@@ -28,9 +29,9 @@ Combina visão estratégica, domínio técnico e mentalidade ágil para gerar va
 ## 🧰 **Competências Técnicas**
 **Linguagens:** SQL, Python, R  
 **Ferramentas e Frameworks:** Airflow, Pentaho, Qlik Sense, MicroStrategy, Hadoop  
-**Geotecnologias:** PostGIS, GeoPandas, GDAL/OGR, QGIS, ArcGIS, LiDAR  
+**Geotecnologias:** PostGIS, GeoPandas, GDAL/OGR, QGIS, Sensoriamento Remoto
 **APIs e Integração:** REST, FastAPI, Flask  
-**Ambientes:** Linux, Git, Docker  
+**Ambientes:** Linux, Git, Docker, GCP, AWS
 **Metodologias:** Scrum, Kanban, PMBOK, Design Thinking  
 
 ---
@@ -61,27 +62,30 @@ Responsável por liderar equipes, redesenhar processos e desenvolver soluções 
 
 ---
 
-## 🎓 **Formação Acadêmica**
-- **Pós-graduação em Inteligência Artificial Aplicada a Geotecnologias** – AmbGeo *(em andamento, 2025)*  
-- **Disciplinas em Geociências (UnB)** – Normalização de Dados Cartográficos (2023) e Bancos de Dados Espaciais (2024)  
+## 🎓 **Formação Acadêmica e Busca de Conhecimento**
+- **Pós-graduação em Inteligência Artificial Aplicada a Geotecnologias** – AmbGeo *(em andamento, 2026)*  
+- **Disciplinas em Geociências (UnB)** – Normalização de Dados Cartográficos (2024) e Bancos de Dados Espaciais (2025)  
+- **Programa de Pós Graduação em Ciências Florestais (UnB)** – Inventário Florestal (2023) e Manejo de Vegetação Nativa (2023)  
 - **Pós-graduação em Ciência de Dados (Big Data)** – IESB (2019)  
-- **MBA em Estratégia Empresarial** – FGV (2009)  
 - **Engenharia de Requisitos e Modelagem de Negócios** – UFRGS (2011)  
+- **MBA em Estratégia Empresarial** – FGV (2009)
+- **Cursos em Gerencialmento de Projetos, BPMN, LEAN e SCRUM** - FGV, UniDF, Web (2002 a 2007)
+- **Especialização em Tecnologias Emergentes da Informação** - UNEB (1997)
 - **Graduação em Processamento de Dados** – UniCeub (1995)
 
 ---
 
 ## 🌐 **Idiomas**
-🇺🇸 Inglês – avançado (leitura) / intermediário (conversação)  
-🇪🇸 Espanhol – básico (leitura)
+🇺🇸 Inglês – avançado 
+🇪🇸 Espanhol – intermediário 
 
 ---
 
 ## 🚀 **Atuação Atual**
-Contribui para a criação de **soluções e produtos baseados em dados espaciais e inteligência artificial**, voltados à **transformação digital de políticas públicas ambientais e territoriais**.
+Contribui para a criação de **soluções e produtos baseados em dados espaciais e inteligência artificial**, voltados à **transformação logística digital de políticas públicas relacionadas ao territorio brasileiro**.
 
 ---
 
 ## 🧭 **Mini Bio**
-Formado em **Processamento de Dados** e pós-graduado em **Ciência de Dados**, com especialização em **Inteligência Artificial Aplicada a Geotecnologias**, Rodrigo Aragão atua há três décadas na área de TI.  
-Sua trajetória combina experiência em **engenharia de dados, geoprocessamento e analytics**, com passagens por consultorias, empresas privadas e pelo **Serpro**, onde desenvolve soluções que integram dados, território e inteligência artificial para gerar valor público e inovação digital.
+Formado em **Processamento de Dados**, com pós-graduação em Estratégia Empresarial e **Ciência de Dados**, com especialização em **Inteligência Artificial Aplicada a Geotecnologias**, Rodrigo Aragão atua há três décadas na área de TI.  
+Sua trajetória combina experiência em **gestão de produtos, engenharia de dados, geoprocessamento e analytics**, com passagens por consultorias no mercado privado e governamental, e no **Serpro** desenvolve soluções que integram dados, informações espaciais e inteligência artificial para geração de valor e inovação digital.
