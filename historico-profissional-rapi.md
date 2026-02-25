@@ -32,7 +32,7 @@ Combina visão estratégica, domínio técnico e mentalidade ágil para gerar va
 - **Geotecnologias:** PostGIS, GeoPandas, GDAL/OGR, QGIS, Sensoriamento Remoto 
 - **APIs e Integração:** REST, FastAPI, Flask  
 - **Ambientes:** Linux, Git, Docker, GCP, AWS 
-- **Metodologias:** Scrum, Kanban, PMBOK, Design Thinking  
+- **Metodologias:** Scrum, Lean, Design Thinking  
 
 ---
 
