@@ -29,9 +29,9 @@ Combina visão estratégica, domínio técnico e mentalidade ágil para gerar va
 ## 🧰 **Competências Técnicas**
 **Linguagens:** SQL, Python, R  
 **Ferramentas e Frameworks:** Airflow, Pentaho, Qlik Sense, MicroStrategy, Hadoop  
-**Geotecnologias:** PostGIS, GeoPandas, GDAL/OGR, QGIS, Sensoriamento Remoto
+**Geotecnologias:** PostGIS, GeoPandas, GDAL/OGR, QGIS, Sensoriamento Remoto 
 **APIs e Integração:** REST, FastAPI, Flask  
-**Ambientes:** Linux, Git, Docker, GCP, AWS
+**Ambientes:** Linux, Git, Docker, GCP, AWS 
 **Metodologias:** Scrum, Kanban, PMBOK, Design Thinking  
 
 ---
@@ -62,16 +62,17 @@ Responsável por liderar equipes, redesenhar processos e desenvolver soluções 
 
 ---
 
-## 🎓 **Formação Acadêmica e Busca de Conhecimento**
+## 🎓 **Formação Acadêmica e Bases de Conhecimento**
 - **Pós-graduação em Inteligência Artificial Aplicada a Geotecnologias** – AmbGeo *(em andamento, 2026)*  
-- **Disciplinas em Geociências (UnB)** – Normalização de Dados Cartográficos (2024) e Bancos de Dados Espaciais (2025)  
+- **Programa de Pós Graduação em Geociências (UnB)** – Normalização de Dados Cartográficos (2024) e Bancos de Dados Espaciais (2025)  
 - **Programa de Pós Graduação em Ciências Florestais (UnB)** – Inventário Florestal (2023) e Manejo de Vegetação Nativa (2023)  
+- **Nivelamento em Geotecnologias com Abordagem Prática Aplicada** - UFLA/FUNDECC (2022) 
 - **Pós-graduação em Ciência de Dados (Big Data)** – IESB (2019)  
 - **Engenharia de Requisitos e Modelagem de Negócios** – UFRGS (2011)  
-- **MBA em Estratégia Empresarial** – FGV (2009)
-- **Cursos em Gerencialmento de Projetos, BPMN, LEAN e SCRUM** - FGV, UniDF, Web (2002 a 2007)
-- **Especialização em Tecnologias Emergentes da Informação** - UNEB (1997)
-- **Graduação em Processamento de Dados** – UniCeub (1995)
+- **MBA em Estratégia Empresarial** – FGV (2009) 
+- **Cursos em Gerencialmento de Projetos, BPMN, LEAN e SCRUM** - FGV, UniDF, Web (2002 a 2007) 
+- **Especialização em Tecnologias Emergentes da Informação** - UNEB (1997) 
+- **Graduação em Processamento de Dados** – UniCeub (1995) 
 
 ---
 
@@ -81,7 +82,7 @@ Responsável por liderar equipes, redesenhar processos e desenvolver soluções 
 
 ---
 
-## 🚀 **Atuação Atual**
+## 🚀 **Atuação do Momento**
 Contribui para a criação de **soluções e produtos baseados em dados espaciais e inteligência artificial**, voltados à **transformação logística digital de políticas públicas relacionadas ao territorio brasileiro**.
 
 ---
