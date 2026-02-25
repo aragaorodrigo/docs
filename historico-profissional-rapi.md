@@ -27,12 +27,12 @@ Combina visão estratégica, domínio técnico e mentalidade ágil para gerar va
 ---
 
 ## 🧰 **Competências Técnicas**
-**Linguagens:** SQL, Python, R  
-**Ferramentas e Frameworks:** Airflow, Pentaho, Qlik Sense, MicroStrategy, Hadoop  
-**Geotecnologias:** PostGIS, GeoPandas, GDAL/OGR, QGIS, Sensoriamento Remoto 
-**APIs e Integração:** REST, FastAPI, Flask  
-**Ambientes:** Linux, Git, Docker, GCP, AWS 
-**Metodologias:** Scrum, Kanban, PMBOK, Design Thinking  
+- **Linguagens:** SQL, Python, R  
+- **Ferramentas e Frameworks:** Airflow, Pentaho, Qlik Sense, MicroStrategy, Hadoop  
+- **Geotecnologias:** PostGIS, GeoPandas, GDAL/OGR, QGIS, Sensoriamento Remoto 
+- **APIs e Integração:** REST, FastAPI, Flask  
+- **Ambientes:** Linux, Git, Docker, GCP, AWS 
+- **Metodologias:** Scrum, Kanban, PMBOK, Design Thinking  
 
 ---
 
